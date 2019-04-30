@@ -1,11 +1,16 @@
 name 'experiment'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Kalyan'
+maintainer_email 'kalyanraj236@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures experiment'
 long_description 'Installs/Configures experiment'
-version '0.1.0'
+version '0.1.6'
 chef_version '>= 13.0'
+
+supports 'ubuntu', '= 16.04'
+
+
+
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
